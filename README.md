@@ -15,6 +15,8 @@ A simple, fast and beautiful calculator built with Flutter.
 antonio.createsapps
 
 ## Screenshots
-![Home](screenshots/home.jpg)
-![Home](screenshots/history.jpg)
-![Home](screenshots/settings.jpg)
+<p align="center">
+  <img src="screenshots/home.jpg" width="250">
+  <img src="screenshots/history.jpg" width="250">
+  <img src="screenshots/settings.jpg" width="250">
+</p>
