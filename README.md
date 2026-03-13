@@ -1,8 +1,20 @@
-<<<<<<< HEAD
-# mi_calculadora
+# Numora Calculator
+A simple, fast and beautiful calculator built with Flutter.
 
-A new Flutter project.
-=======
-# numora-calculator
-Simple and beautiful calculator made with Flutter
->>>>>>> 9813a63641f875b8fd7d9ca0feb3364eefbe2276
+# Features
+- Basic arithmetic operations
+- Calculation history
+- Clean modern UI
+- Dark theme
+
+# Built With
+- Flutter
+- Dart
+
+## Author
+antonio.createsapps
+
+## Screenshots
+![Home](screenshots/home.jpg)
+![Home](screenshots/history.jpg)
+![Home](screenshots/settings.jpg)
